@@ -38,6 +38,7 @@ Hi, I'm Vivek Kumawat, a passionate Full-Stack web and App developer from India.
 	</ul>
 </details>
 </br>
+<img src="https://github-readme-stats.vercel.app/api?username=vivekkumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </br>
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
