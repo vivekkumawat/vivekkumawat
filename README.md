@@ -1,20 +1,21 @@
-# 🖥 Front End Developer
+# 🖥 Full-Stack Web & App Developer
 
-Hi, I'm Vivek Kumawat, a passionate Full-Stack web and App developer from India.
+Hi, I'm Vivek Kumawat, a passionate Full-Stack web and App developer from 🇮🇳 India.
 
 ## I am passionate about:
 
 - Web Develpoment
-- Graphics Designing
-- Android Dev
+- App Development
+- UI/UX Design
+- Blockchain
 - Gaming
 
 ## Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/Vue -41b883" />
+<img src="https://img.shields.io/badge/VueJs -41b883" />
 <img src="https://img.shields.io/badge/SCSS -FF0000" />  
-<img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
+<img src="https://img.shields.io/badge/ReactJs -61dafb" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" />  
 <img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
